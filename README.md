@@ -19,3 +19,39 @@ Hi, I’m **Samer Taha** 👋<br><br>I’m a **full-stack web developer** with s
 [![](https://visitcount.itsvg.in/api?id=samertaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+בטח, הנה גרסה מתורגמת ומעוצבת לעברית (RTL) שתתאים בדיוק לחלק התחתון של ה-README שלך:
+
+---
+
+# 💫 קצת עלי:
+היי, אני **סאמר טאהא** 👋
+
+אני **מפתח Full-Stack** עם ניסיון מעשי עשיר ב-**MERN stack**, **Next.js**, ופיתוח פרונטנד מודרני. השלמתי מעל **720 שעות של הכשרה אינטנסיבית**, ואני עובד גם עם **PHP ו-WordPress**, מה שמאפשר לי לבנות יישומים סקילביליים ואתרים דינמיים בהתאמה אישית.
+
+### 💡 מה אני עושה
+
+* בונה אפליקציות Full-stack בטכנולוגיות **MongoDB, Express, React, Node.js**
+* מפתח אתרים מהירים ומותאמי SEO עם **Next.js** (SSR, SSG, API routes)
+* יוצר תבניות ותוספים מותאמים אישית ב-**WordPress & PHP**
+* מעצב ממשקי UI/UX נקיים ומערכות קומפוננטות לשימוש חוזר
+* פותר בעיות מורכבות בעזרת קוד פרקטי וממוקד ביצועים
+
+### 🛠️ סטאק טכנולוגי
+
+**Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind
+**Backend:** Node.js, Express, REST APIs
+**Databases:** MongoDB, Mongoose
+**Other:** Git, WordPress/PHP, Linux, Postman, JWT Auth
+
+### 🚀 מטרות נוכחיות
+
+אני מתמקד כרגע ב:
+* בניית אפליקציות Next.js ברמת Production
+* שיפור ארכיטקטורת Backend ועיצוב API
+* תרומה לפרויקטי קוד פתוח (Open Source)
+
+### 📫 צרו קשר
+
+מוזמנים לפנות אלי — אני תמיד פתוח לשיתופי פעולה והזדמנויות חדשות!
+
+תודה שקפצתם לבקר! 🙌
